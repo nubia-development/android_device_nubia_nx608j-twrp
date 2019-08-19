@@ -1,3 +1,3 @@
 TeamWin Recovery Project
 
-## Device configuration for Nubia V18 (nx612j)
+## Device configuration for Nubia N3 OPEN (nx608j)
